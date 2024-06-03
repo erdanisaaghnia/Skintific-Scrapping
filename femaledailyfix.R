@@ -76,7 +76,7 @@ all_reviews_product6 <- map_df(1:2, function(page_number) {
 all_reviews <- bind_rows(all_reviews_product1, all_reviews_product2, all_reviews_product3, all_reviews_product4, all_reviews_product5, all_reviews_product6)
 
 #Sample
-srape_data <- sample(1:545,1,replace=F)
+srape_data <- sample(1:545,50,replace=F)
 data_scrape <- all_reviews[srape_data,]
 
 # MONGODB
