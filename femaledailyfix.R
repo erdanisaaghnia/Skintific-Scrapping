@@ -76,8 +76,7 @@ all_reviews_product6 <- map_df(1:2, function(page_number) {
 all_reviews <- bind_rows(all_reviews_product1, all_reviews_product2, all_reviews_product3, all_reviews_product4, all_reviews_product5, all_reviews_product6)
 
 #Sample
-srape_data <- sample(1:545,20,replace=F)
-data_scrape <- all_reviews[srape_data,]
+data_scrape <- all_reviews[sample(nrow(all_reviews), 20), ]
 
 # MONGODB
 message('Input Data to MongoDB Atlas')
