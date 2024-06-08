@@ -15,7 +15,7 @@ library(reshape2)
 
 #===============ambil data from mongoDB=============================#
 # Define your collection and database
-collection <- "Skintific"
+collection <- "TaskWeb"
 db <- "Task-Web-Scrapping"
 
 # Include the authentication database in the URL
