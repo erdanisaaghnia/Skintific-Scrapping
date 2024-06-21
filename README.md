@@ -2,10 +2,7 @@
   <img width="500" height="300" src="Skintific.png">
 </p>
 
-
-<div align="center">
 ## :blue_book: **Deskripsi**
-  
 <p align="justify">
 Dalam era digital saat ini, ulasan produk dari konsumen memainkan peran yang sangat penting dalam mempengaruhi keputusan pembelian. Salah satu produk yang mendapatkan perhatian luas di pasar kecantikan adalah cushion dari brand Skintific. Cushion, sebagai produk kosmetik yang menggabungkan foundation dan bedak dalam satu kemasan praktis, telah menjadi pilihan populer di kalangan pengguna karena kemudahan penggunaannya dan hasil akhir yang natural. Skintific, dengan reputasinya dalam menghasilkan produk kecantikan berkualitas tinggi, menarik minat banyak konsumen yang ingin mencoba dan membagikan pengalaman mereka melalui ulasan di berbagai platform e-commerce dan media sosial.
 </p>
